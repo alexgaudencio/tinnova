@@ -14,11 +14,11 @@ Para ter acesso ao exercícios resolvidos, após rodar o projeto, acessar o ende
 
   
 ### Exercícios
- [Exercício 1 - Votos em relação ao total de eleitores](http://localhost:8080/swagger-ui.html#/controller-eleitores)
- [Exercício 2 - Algoritmo de ordenação Bubble Sort](http://localhost:8080/swagger-ui.html#/controller-bubble)
- [Exercício 3 - Fatorial](http://localhost:8080/swagger-ui.html#/controller-fatorial)
- [Exercício 4 - Soma dos multiplos de 3 ou 5](http://localhost:8080/swagger-ui.html#/controller-multiplos)
- [Exercício 5 - Cadastro de veículos](http://localhost:8080/swagger-ui.html#/controller-veiculo)
+ [Exercício 1 - Votos em relação ao total de eleitores](http://localhost:8080/swagger-ui.html#/controller-eleitores) <br/>
+ [Exercício 2 - Algoritmo de ordenação Bubble Sort](http://localhost:8080/swagger-ui.html#/controller-bubble) <br/>
+ [Exercício 3 - Fatorial](http://localhost:8080/swagger-ui.html#/controller-fatorial) <br/>
+ [Exercício 4 - Soma dos multiplos de 3 ou 5](http://localhost:8080/swagger-ui.html#/controller-multiplos) <br/>
+ [Exercício 5 - Cadastro de veículos](http://localhost:8080/swagger-ui.html#/controller-veiculo) <br/>
  
  
  ### TODO
